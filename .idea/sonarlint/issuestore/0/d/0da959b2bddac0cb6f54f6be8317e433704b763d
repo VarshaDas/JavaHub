@@ -1,0 +1,19 @@
+
+U	java:S106$"9Replace this use of System.out or System.err by a logger.(£±Öİ8œúõ¥é.
+E
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8œúõ¥é.
+c
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(©Œô—ÿÿÿÿÿ8œúõ¥é.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(·ğú8œúõ¥é.
+>
+java:S1116"Remove this empty statement.(„©§†ûÿÿÿÿ8œúõ¥é.
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(æÀÒıùÿÿÿÿ8œúõ¥é.
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(™˜”Ãùÿÿÿÿ8œúõ¥é.
+E
+java:S1905"(Remove this unnecessary cast to "Proxy".(Ô£Ãî8œúõ¥é.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(÷ÁËß8œúõ¥é.
+Z
+java:S1197"8Move the array designator from the variable to the type.(Ü°¬âÿÿÿÿÿ8œúõ¥é.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Û®¦ÿÿÿÿÿ8œúõ¥é.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ûãÁùùÿÿÿÿ8œúõ¥é.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(²˜Â8œúõ¥é.

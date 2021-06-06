@@ -1,0 +1,15 @@
+
+U	java:S106$"9Replace this use of System.out or System.err by a logger.(¿íŞ¥8”•€Ó/
+R
+java:S1481"0Remove this unused "inputStream" local variable.(á“æÈûÿÿÿÿ8›Ó’Ù/
+]	java:S125"<This block of commented-out lines of code should be removed.(—ôìàúÿÿÿÿ8ªâ“Ù/
+]	java:S125!"<This block of commented-out lines of code should be removed.(ŞêáÒúÿÿÿÿ8ññÓ/
+U	java:S106%"9Replace this use of System.out or System.err by a logger.(íµß¯8õø€Ó/
+]	java:S125"<This block of commented-out lines of code should be removed.(Âúøùÿÿÿÿ8ªâ“Ù/
+Z
+java:S1197"8Move the array designator from the variable to the type.(²Á€œüÿÿÿÿ8èêîÒ/
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(ô¼ı ÿÿÿÿÿ8­Ó/
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ç˜”ò
+Z	java:S106."9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ8ô… Ó/
+a
+java:S1854"?Remove this useless assignment to local variable "inputStream".(á“æÈûÿÿÿÿ8›Ó’Ù/

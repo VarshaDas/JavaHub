@@ -1,0 +1,15 @@
+
+0
+java:S1220""Move this file to a named package.
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ĞÂ£Ğ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Š ˆùÿÿÿÿ8Æ•‡Ü¢.
+]	java:S125
+"<This block of commented-out lines of code should be removed.(§ç¢Êşÿÿÿÿ8Á²ÿÛ¢.
+Z	java:S106	"9Replace this use of System.out or System.err by a logger.(Û½Èğÿÿÿÿÿ8æúşÛ¢.
+Z
+java:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8ƒ‚Ú¢.
+k
+java:S2259	"IA "NullPointerException" could be thrown; "inputStream" is nullable here.(Û½Èğÿÿÿÿÿ8æúşÛ¢.
+R
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8İ‹Ú¢.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¨Ô¯™8Âæ‡Ü¢.

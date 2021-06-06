@@ -1,0 +1,16 @@
+
+h
+java:S1128"KRemove this unused import 'com.atlassian.clover.reporters.json.JSONObject'.(‰¨­¨8ôõÚ†Ê.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(æ¨¤šøÿÿÿÿ8ò±¿ÑÌ.
+X	java:S125"<This block of commented-out lines of code should be removed.(°ÐØÈ8ŸÑ¿ÑÌ.
+]	java:S125("<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8ôõÚ†Ê.
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8¨ù‰ÔÂ.
+X	java:S125 "<This block of commented-out lines of code should be removed.(ÅØì8ôõÚ†Ê.
+X	java:S125""<This block of commented-out lines of code should be removed.(Òá…¨8ôõÚ†Ê.
+U
+java:S1197"8Move the array designator from the variable to the type.(¤¼§¬8­ÏíÓÂ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ûåóˆ8ìˆÆÑÌ.
+¨
+java:S1130"ŠRemove the declaration of thrown exception 'com.atlassian.clover.reporters.json.JSONException', as it cannot be thrown from method's body.(¤¼§¬8úÅÑÌ.
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¦ÚÄÅúÿÿÿÿ

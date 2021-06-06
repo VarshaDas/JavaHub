@@ -1,0 +1,32 @@
+
+V
+java:S1128":Remove this unused import 'java.io.ByteArrayOutputStream'.(Î‡È8±¸ïŒ”/
+Z	java:S1069"9Replace this use of System.out or System.err by a logger.(ßê Õÿÿÿÿÿ8Ñ‚î”/
+v
+java:S1128"YRemove this unused import 'com.cerner.pophealth.hadoop.ecosystem.api.models.PropertyDto'.(ãÁªÂ8¤¾©”/
+S
+java:S1128"6Remove this unused import 'java.io.InputStreamReader'.(ãˆÎÉ8±¸ïŒ”/
+T
+java:S1128
+"7Remove this unused import 'com.google.inject.Injector'.(ÜÜè8Ûªœ”/
+V
+java:S1128"9Remove this unused import 'org.apache.hadoop.io.IOUtils'.(êßÚ8ÇÓŒ”/
+[
+java:S1128"9Remove this unused import 'java.io.ByteArrayInputStream'.(Ëôæ±ûÿÿÿÿ8±¸ïŒ”/
+V
+java:S1128	"4Remove this unused import 'com.google.inject.Guice'.(Š¸†úÿÿÿÿ8Ûªœ”/
+S
+java:S1128"6Remove this unused import 'org.apache.hadoop.fs.Path'.(šàö†8Ù¥‹”/
+M
+java:S1128"0Remove this unused import 'java.io.InputStream'.(¹»º8ÇÓŒ”/
+^
+java:S1128"<Remove this unused import 'org.apache.hadoop.fs.FileSystem'.(é£Æşÿÿÿÿ8Ñ‚î”/
+U
+java:S1481:"8Remove this unused "hadoopConfiguration" local variable.(†Àç‹8Ñ‚î”/
+L
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ8Ñ‚î”/
+|
+java:S1128"ZRemove this unused import 'com.cerner.pophealth.hadoop.ecosystem.api.FilesystemsResource'.(ËÀµæıÿÿÿÿ8Ûªœ”/
+F
+java:S1128")Remove this unused import 'java.net.URI'.(Ö¦¨°8ÇÓŒ”/
+X	java:S125"<This block of commented-out lines of code should be removed.(Û“¤8ƒ¡İŠ”/

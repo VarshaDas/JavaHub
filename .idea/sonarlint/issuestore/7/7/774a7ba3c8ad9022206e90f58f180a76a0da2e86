@@ -1,0 +1,32 @@
+
+T
+java:S1481"2Remove this unused "objectPortion" local variable.(†¯ÉÜüÿÿÿÿ8œúõ¥é.
+]	java:S125!"<This block of commented-out lines of code should be removed.(Â™†úÿÿÿÿ8œúõ¥é.
+S
+java:S1481"1Remove this unused "clientRegion" local variable.(Àòªûÿÿÿÿ8œúõ¥é.
+[
+java:S1481"9Remove this unused "headerOverrideObject" local variable.(†¯ÉÜüÿÿÿÿ8œúõ¥é.
+Z	java:S1069"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8œúõ¥é.
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(õóµ8œúõ¥é.
+^
+java:S1128"ARemove this unused import 'com.amazonaws.AmazonServiceException'.(úÀëú8œúõ¥é.
+Z	java:S1067"9Replace this use of System.out or System.err by a logger.(ñ—¸½úÿÿÿÿ8œúõ¥é.
+@
+java:S1128"Remove this duplicated import.(ªº»Úıÿÿÿÿ8œúõ¥é.
+q
+java:S1128"TRemove this unused import 'com.amazonaws.services.s3.model.ResponseHeaderOverrides'.(ßš÷8œúõ¥é.
+E
+java:S1148."#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8œúõ¥é.
+T
+java:S1659"2Declare "headerOverrideObject" on a separate line.(†¯ÉÜüÿÿÿÿ8œúõ¥é.
+U	java:S106)"9Replace this use of System.out or System.err by a logger.(Ú¡ğˆ8œúõ¥é.
+W
+java:S1128":Remove this unused import 'com.amazonaws.regions.Regions'.(†©Çã8œúõ¥é.
+b
+java:S1854"@Remove this useless assignment to local variable "clientRegion".(Àòªûÿÿÿÿ8œúõ¥é.
+M
+java:S1659"+Declare "objectPortion" on a separate line.(†¯ÉÜüÿÿÿÿ8œúõ¥é.
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(ÓŸİÆşÿÿÿÿ8œúõ¥é.
+[
+java:S1128">Remove this unused import 'com.amazonaws.auth.AWSCredentials'.(¸—¥8œúõ¥é.
+Z	java:S106*"9Replace this use of System.out or System.err by a logger.(õÅìÙÿÿÿÿÿ8œúõ¥é.

@@ -1,0 +1,11 @@
+
+L
+java:S1066"/Merge this if statement with the enclosing one.(ÃÿÏı8”Ô¦é.
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ìœšı8’—ò¥é.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(…§éãÿÿÿÿÿ8”Ô¦é.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(“õº…8”Ô¦é.
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ùŸƒ¦é.
+Z
+java:S1197
+"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8Ê¾ı¥é.

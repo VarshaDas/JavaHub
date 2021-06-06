@@ -1,0 +1,20 @@
+
+U	java:S106I"9Replace this use of System.out or System.err by a logger.(®Àª«8œúõ¥é.
+{
+java:S2293("YReplace the type specification in this constructor call with the diamond operator ("<>").(ç”İ€ûÿÿÿÿ8œúõ¥é.
+Z	java:S1062"9Replace this use of System.out or System.err by a logger.(õ÷êâùÿÿÿÿ8œúõ¥é.
+Z	java:S106>"9Replace this use of System.out or System.err by a logger.(ÑŸ£ üÿÿÿÿ8œúõ¥é.
+v
+java:S22930"YReplace the type specification in this constructor call with the diamond operator ("<>").(«İÅ8œúõ¥é.
+Z	java:S106*"9Replace this use of System.out or System.err by a logger.(ÿóÉäûÿÿÿÿ8œúõ¥é.
+n
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(Úäÿ”ıÿÿÿÿ8œúõ¥é.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(û´Š¤ûÿÿÿÿ8á‹Àú•/
+h
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(è‰«n8œúõ¥é.
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(è¬ì£şÿÿÿÿ8œúõ¥é.
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(»‚ÌÅ8œúõ¥é.
+T
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ8œúõ¥é.

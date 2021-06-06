@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.cerner.hi.chartsearch.commons:json-utils:1.0.23-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/cerner/hi/chartsearch/commons/json-utils/1.0.23-SNAPSHOT/json-utils-1.0.23-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/cerner/hi/chartsearch/commons/json-utils/1.0.23-SNAPSHOT/json-utils-1.0.23-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/cerner/hi/chartsearch/commons/json-utils/1.0.23-SNAPSHOT/json-utils-1.0.23-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

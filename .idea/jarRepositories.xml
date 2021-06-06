@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="pophealth-snapshot" />
+      <option name="name" value="Population Health Snapshot Repository" />
+      <option name="url" value="http://repo.pophealth.cerner.corp/nexus/content/repositories/pophealth-snapshot" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="java-net-maven2" />
+      <option name="name" value="Java.net Repository for Maven" />
+      <option name="url" value="http://download.java.net/maven/2/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="cerner-internal-release" />
+      <option name="name" value="Cerner Internal Release Repository" />
+      <option name="url" value="http://repo.release.cerner.corp/internal/repo/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="cerner-main-release" />
+      <option name="name" value="Cerner Main Release Repository" />
+      <option name="url" value="http://repo.release.cerner.corp/main/repo/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="cerner-external-release" />
+      <option name="name" value="Cerner External Release Repository" />
+      <option name="url" value="http://repo.release.cerner.corp/external/repo/" />
+    </remote-repository>
+  </component>
+</project>

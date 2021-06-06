@@ -1,0 +1,13 @@
+
+H
+java:S1128"+Remove this unused import 'java.util.Date'.(¸…¼ü8¹‰Ž¤¼.
+g	java:S112'"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8¹‰Ž¤¼.
+^
+java:S1128"ARemove this unused import 'java.io.UnsupportedEncodingException'.(Ãµ…“8¹‰Ž¤¼.
+Z
+java:S1197"8Move the array designator from the variable to the type.(¡þÏÖøÿÿÿÿ8¹‰Ž¤¼.
+W
+java:S1161":Add the "@Override" annotation above this method signature(‡èú×8ŽòŽ¤¼.
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.(’ìº¸üÿÿÿÿ8¹‰Ž¤¼.
+”
+java:S5527"wEnable server hostname verification on this SSL/TLS connection, by setting "mail.smtp.ssl.checkserveridentity" to true.(’ß‡ƒ8¹‰Ž¤¼.
