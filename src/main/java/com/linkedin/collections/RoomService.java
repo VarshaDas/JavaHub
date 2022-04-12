@@ -1,40 +1,80 @@
 package com.linkedin.collections;
 
+import java.util.Arrays;
 import java.util.Collection;
+import java.util.HashSet;
+import java.util.LinkedHashSet;
+import java.util.stream.Collectors;
 
 public class RoomService {
 
-  // 1. Declare a Collection to store Room Inventory
+  private Collection<Room> inventory;
 
   public RoomService() {
+	this.inventory = new LinkedHashSet<>();
+  }
 
-	// 2. Initialize Collection and assign it to the Room Inventory
+  public void applyDiscount(final double discount) {
+
+	//Reduces the rate of each room by the provided discount
+	this.inventory.forEach(r -> r.setRate(r.getRate() * (1-discount)));
 
   }
 
-  public Collection<Room> getInventory(){
+  public Collection<Room> getRoomsByCapacity(final int requiredCapacity) {
 
-	// 3. Return the Room Inventory
+	//Returns a new collection of rooms that meet or exceed the provided capacity
+	Collection<Room>  list = this.inventory.stream().filter
+			(room -> room.getCapacity() >= requiredCapacity).collect(Collectors.toList());
 
-	return null;
+	return list;
+
   }
 
-  public void createRoom(String name, String type, int capacity, double rate) {
+  public Collection<Room> getRoomByRateAndType(final double rate, final String type){
 
-	// 4. Add a new Room to the Room Inventory using the provided parameters
+	//Returns a new collection of rooms with a rate below the provided rate and that match the provided type
 
+	Collection<Room> list = this.inventory.stream()
+			.filter(room -> room.getRate() < rate)
+	        .filter(room-> room.getType().equals(type))
+			.collect(Collectors.toList());
+	return list;
+
+  }
+
+  public boolean hasRoom(Room room) {
+
+	return this.inventory.contains(room);
+  }
+
+  public Room[] asArray() {
+
+	return this.inventory.toArray(new Room[0]);
+  }
+
+  public Collection<Room> getByType(String type){
+
+	Collection<Room> copy = new HashSet<>(this.inventory);
+	copy.removeIf(r -> !r.getType().equals(type));
+	return copy;
+
+  }
+
+  public Collection<Room> getInventory() {
+	return new HashSet<>(this.inventory);
+  }
+
+  public void createRoom(String name, String type, int capacity, double price) {
+	this.inventory.add(new Room(name, type, capacity, price));
   }
 
   public void createRooms(Room[] rooms) {
-
-	// 5. Add the Rooms provided in the Array to the Room Inventory
-
+	this.inventory.addAll(Arrays.asList(rooms));
   }
 
   public void removeRoom(Room room) {
-
-	// 6. Remove the provided Room from the Room Inventory
-
+	this.inventory.remove(room);
   }
 
 }
